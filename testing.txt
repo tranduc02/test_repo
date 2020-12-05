@@ -1,2 +1,3 @@
 This is just a file that is used for the purpose of demostrating how to resolve conflict
 <this is the changed part>: Or is it?
+Maybe it is. What do you think?
